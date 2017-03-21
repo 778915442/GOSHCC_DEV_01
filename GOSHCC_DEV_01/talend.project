@@ -788,8 +788,8 @@
     <migrationTask xmi:id="_aOszQQ5WEeez4OQeMw4sZg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_YmPmYg5WEeez4OQeMw4sZg" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_Zxf4kw5WEeez4OQeMw4sZg" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_47iqAA5nEeeGqtHVmEgruw" project="_YmPmYQ5WEeez4OQeMw4sZg" branch="master" referencedBranch="master">
     <referencedProject href="../GLOBAL_OBJECTS/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_Zxf4kw5WEeez4OQeMw4sZg" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
 </xmi:XMI>

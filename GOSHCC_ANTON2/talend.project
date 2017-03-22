@@ -461,4 +461,6 @@
     <referencedProject href="../GLOBAL_REFERENCE/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
   <TalendProperties:User xmi:id="_Y4kDMA8LEeenrpk0Dcsj0A" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_EsDXgA8UEeeilv8QVqnk5w" login="operator@company.com" firstName="operator" lastName="operator" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_EsDXgQ8UEeeilv8QVqnk5w" login="operator2@company.com" firstName="operator" lastName="two" type="DQ" additionnalData="{}"/>
 </xmi:XMI>

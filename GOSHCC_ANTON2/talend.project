@@ -457,8 +457,8 @@
     <migrationTask xmi:id="_ZQgpxw8LEeenrpk0Dcsj0A" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_VSiXsg8LEeenrpk0Dcsj0A" login="admin@company.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
-  <TalendProperties:User xmi:id="_Y4kDMA8LEeenrpk0Dcsj0A" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_vgACwA8OEeeRvsqhkuGYRg" project="_VSiXsQ8LEeenrpk0Dcsj0A" branch="master" referencedBranch="master">
     <referencedProject href="../GLOBAL_REFERENCE/talend.project#projectReference"/>
   </TalendProperties:ProjectReference>
+  <TalendProperties:User xmi:id="_Y4kDMA8LEeenrpk0Dcsj0A" login="gosh_01@company.com" firstName="gosh01" lastName="surname01" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
